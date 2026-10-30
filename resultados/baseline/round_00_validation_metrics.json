@@ -1,0 +1,17 @@
+{
+  "original": {
+    "mAP": 0.1428739319840632,
+    "Rank-1": 0.3,
+    "Rank-5": 0.37,
+    "Rank-10": 0.46,
+    "valid_queries": 100
+  },
+  "low_resolution": {
+    "mAP": 0.05764994486761196,
+    "Rank-1": 0.12,
+    "Rank-5": 0.19,
+    "Rank-10": 0.32,
+    "valid_queries": 100
+  },
+  "mAP_drop": 0.08522398711645124
+}

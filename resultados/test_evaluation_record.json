@@ -1,0 +1,8 @@
+{
+  "identity": {
+    "method": "cem_only",
+    "round": "round_04",
+    "checkpoint_sha256": "c2a548aa50ad93c31fb408084cc1226c17048b7b2692b1c3593199e022231ac7"
+  },
+  "status": "complete"
+}

@@ -1,0 +1,17 @@
+{
+  "status": "complete",
+  "time_budget_hours_this_invocation": 5.0,
+  "protocol": "paper_adapted_v3",
+  "training_budget_reached": false,
+  "elapsed_seconds_this_invocation": 2825.4219999999914,
+  "eligible_common_rounds": [
+    "round_00",
+    "round_01",
+    "round_02",
+    "round_03",
+    "round_04",
+    "round_05",
+    "round_06",
+    "round_07"
+  ]
+}

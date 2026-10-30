@@ -1,0 +1,33 @@
+{
+  "selected_method": "cem_only",
+  "selected_round": "round_04",
+  "validation_original_mAP": 0.2893181937683429,
+  "validation": {
+    "original": {
+      "mAP": 0.2893181937683429,
+      "Rank-1": 0.44,
+      "Rank-5": 0.67,
+      "Rank-10": 0.72,
+      "valid_queries": 100
+    },
+    "low_resolution": {
+      "mAP": 0.11781137210654583,
+      "Rank-1": 0.22,
+      "Rank-5": 0.32,
+      "Rank-10": 0.46,
+      "valid_queries": 100
+    },
+    "mAP_drop": 0.17150682166179707
+  },
+  "eligible_common_rounds": [
+    "round_00",
+    "round_01",
+    "round_02",
+    "round_03",
+    "round_04",
+    "round_05",
+    "round_06",
+    "round_07"
+  ],
+  "checkpoint": "D:\\DAVID\\lab3-reid\\runs_workstation_v3\\cem_only\\round_04.pt"
+}

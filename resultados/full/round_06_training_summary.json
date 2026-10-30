@@ -1,0 +1,18 @@
+{
+  "round": 6,
+  "clusters": 282,
+  "outliers": 4982,
+  "outliers_before_mlcor": 5022,
+  "recovered_outliers": 40,
+  "eps": 0.2,
+  "clustering": "dbscan",
+  "method": "full",
+  "protocol": "paper_adapted_v3",
+  "epochs_completed": 56,
+  "optimizer_steps_this_round": 752,
+  "pk_people": 16,
+  "pk_images_per_person": 4,
+  "round_seconds": 125.95300000000861,
+  "last_epoch_loss": 6.546067719763898,
+  "gpu_peak_allocated_gb": 2.360041618347168
+}

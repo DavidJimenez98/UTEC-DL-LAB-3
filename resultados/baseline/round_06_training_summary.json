@@ -1,0 +1,18 @@
+{
+  "round": 6,
+  "clusters": 300,
+  "outliers": 1750,
+  "outliers_before_mlcor": 1750,
+  "recovered_outliers": 0,
+  "eps": null,
+  "clustering": "spherical_kmeans",
+  "method": "baseline",
+  "protocol": "paper_adapted_v3",
+  "epochs_completed": 56,
+  "optimizer_steps_this_round": 1160,
+  "pk_people": 16,
+  "pk_images_per_person": 4,
+  "round_seconds": 162.90700000000652,
+  "last_epoch_loss": 5.779663904781999,
+  "gpu_peak_allocated_gb": 2.389512062072754
+}

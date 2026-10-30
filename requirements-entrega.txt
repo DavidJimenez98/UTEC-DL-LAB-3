@@ -1,0 +1,7 @@
+# Instalar torch/torchvision por separado; ver README_ENTREGA.md
+h5py>=3.10,<4
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+tqdm>=4.66,<5
+matplotlib>=3.8,<4
+pandas>=2.2,<4

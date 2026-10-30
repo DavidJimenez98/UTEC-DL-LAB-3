@@ -1,0 +1,27 @@
+{
+  "rounds": 8,
+  "epochs_per_round": 8,
+  "batch": 64,
+  "extract_batch": 256,
+  "workers": 8,
+  "seed": 42,
+  "protocol": "paper_adapted_v3",
+  "data": "D:\\DAVID\\lab3-reid\\Datos preparados\\Market-1501",
+  "round_order": "round_then_method",
+  "lr": 0.00035,
+  "backbone_lr_multiplier": 0.1,
+  "lr_decay_every_epochs": 20,
+  "lr_decay_factor": 0.1,
+  "ce_weights": [
+    0.8,
+    0.2,
+    0.2
+  ],
+  "cdtl_weight": 1.0,
+  "gel_weight": 0.6,
+  "source_sha256": {
+    "reid_lab.py": "237db0b1594c90d048009c3bac71e42660848a139a413ffa967c972569a04cda",
+    "workstation_v3.py": "ff2cd774414e40cd61005be5ee3f95a3c4fd2cb273e0c9a9a542b268b665ea27",
+    "khipu\\select_and_test.py": "1ec2d87867cca70c01419c3c00273941cb4497c29b883df1df7c8455ca66d345"
+  }
+}
